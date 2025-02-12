@@ -6,3 +6,7 @@ Features so far:
 - Basic data saving and loading capabilities.
 
 Although this project is not yet complete and I'm not actively working on it at the moment, it has been an interesting learning experience.
+
+## Recommended IDE Setup
+
+- [Visual Studio Community 2022](https://visualstudio.microsoft.com/vs/community/) + [Unity 2020.3.47f1 (64-bit)](https://unity.com/releases/editor/whats-new/2020.3.47) + [Unity Hub](https://unity.com/unity-hub)
